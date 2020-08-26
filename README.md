@@ -1,4 +1,10 @@
-### Hi there 👋
+# 🦊 Mae Morella (She/Her) 🦊
+
+- 🦉 **Education:** CS Major @ Kennesaw State University
+
+- 💻 **Proficiencies:** NodeJS - HTML/CSS - ReactJS - Java - C# - C++
+
+- ⚡ **Put some other information**: here so the page looks nice to potential employers.
 
 <!--
 **morellam-dev/morellam-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
