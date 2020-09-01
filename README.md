@@ -1,10 +1,31 @@
 # 🦊 Mae Morella (She/Her) 🦊
 
-- 🦉 **Education:** CS Major @ Kennesaw State University
+```js
+/** 
+ * @file   README.md
+ * @author Mae Morella
+ *                                                  _ _
+ *  _ __ ___   __ _  ___   _ __ ___   ___  _ __ ___| | | __ _
+ * | '_ ` _ \ / _` |/ _ \ | '_ ` _ \ / _ \| '__/ _ \ | |/ _` |
+ * | | | | | | (_| |  __/ | | | | | | (_) | | |  __/ | | (_| |
+ * |_| |_| |_|\__,_|\___| |_| |_| |_|\___/|_|  \___|_|_|\__,_|
+ */
+import { Profile } from "github-profile";
 
-- 💻 **Proficiencies:** NodeJS - HTML/CSS - ReactJS - Java - C# - C++
-
-- ⚡ **Put some other information**: here so the page looks nice to potential employers.
+const me = new Profile("morellam-dev", {
+  name: "Mae B. Morella",
+  pronouns: "She/Her",
+  accent_emojis: ['🦊', '🦉', '💻 ', '⚡']
+})
+me.education = {
+  school: "Kennesaw State University",
+  degree: "B.S in Computer Science",
+  getStatus: (year) => assert(year < 2022) && "In progress!",
+};
+me.languages = [
+  "NodeJS", "HTML/CSS", "React", "Java", "C#", "C++"
+];
+```
 
 <!--
 **morellam-dev/morellam-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
