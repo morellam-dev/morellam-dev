@@ -1,4 +1,4 @@
-# 🦊 Mae Morella (She/Her) 🦊
+# 🦊 morellam-dev 🦊
 
 ```js
 /** 
