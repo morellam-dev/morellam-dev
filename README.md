@@ -14,6 +14,7 @@ import { Profile } from "github-profile";
 
 const me = new Profile("morellam-dev", {
   name: "Mae B. Morella",
+  born: "M** Dylan Morella",
   pronouns: "She/Her",
   accent_emojis: ['🦊', '🦉', '💻 ', '⚡']
 })
